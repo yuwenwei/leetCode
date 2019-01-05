@@ -8,5 +8,6 @@ public class FindNumber {
 		//å†²çªå¤„ç†
 		System.out.println(a+b);
 		String s = "";
+		//ÊÔÊÔ
 	}
 }
